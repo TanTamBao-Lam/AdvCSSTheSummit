@@ -19,3 +19,17 @@ a:active {
     border: 1px solid #2176FF;
     color: #fff;
 }
+
+.nav-link {
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    box-shadow: 4px 4px;
+}
+
+.nav-link:active {
+    background-color: #736B92;
+    color: #fff;
+    border: 1px solid #736B92;
+}
