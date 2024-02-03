@@ -33,3 +33,13 @@ a:active {
     color: #fff;
     border: 1px solid #736B92;
 }
+
+.btn {
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-size: large;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: rgba(255, 255, 255, .8);
+    padding: .5%;
+}
